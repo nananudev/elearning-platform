@@ -1,2 +1,2 @@
-# pass-questions
-Web Appliclation to upload pass questions
+# e-learning platform for universities
+Web Appliclation that provides courses description and overviews
